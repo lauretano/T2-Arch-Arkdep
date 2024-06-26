@@ -1,4 +1,8 @@
-# Arkdep
+# T2 Arch Arkdep
+
+** insert 1990s under construction gif **
+
+
 Toolkit for building, deploying and maintaining an immutable, btrfs-based, multi-root system.
 
 Arkdep is the set of tools providing immutability to Arkane Linux. It attempts to differentiate itself from other similar tools by being "stupidly simple", hackable, flexible, and having the usability of the tooling be a top priority.
